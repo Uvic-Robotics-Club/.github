@@ -1,7 +1,5 @@
-## Welcome to the UVic Robotics codebase 👋
-email: uvic.robotics@gmail.com
-
-# Important Links
+## Welcome to the UVic Robotics repo 👋
+### Important Links
 The following are links to our wikis. To get access to the discord, reach out through the email
 
 [Software team wiki ](https://github.com/Uvic-Robotics-Club/uvic-rover/wiki)
@@ -9,6 +7,6 @@ The following are links to our wikis. To get access to the discord, reach out th
 [General Wiki](https://github.com/Uvic-Robotics-Club/Administrative)
 
 
-# CIRC 2023 Rover
+## CIRC 2023 Rover
 ![image](https://github.com/Uvic-Robotics-Club/.github/assets/42494981/ab7b0c3e-820b-4184-83b5-17dc261a4f03)
 
