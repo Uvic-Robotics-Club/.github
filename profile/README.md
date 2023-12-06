@@ -1,9 +1,14 @@
 ## Welcome to the UVic Robotics codebase 👋
+email: uvic.robotics@gmail.com
 
-<!--
+# Important Links
+The following are links to our wikis. To get access to the discord, reach out through the email
 
-# 2023 CIRC Rover (cheese)
-![image](https://github.com/Uvic-Robotics-Club/.github/assets/42494981/5a72489d-2858-4248-94af-2cd7014cfbc8)
+[Software team wiki ](https://github.com/Uvic-Robotics-Club/uvic-rover/wiki)
+
+[General Wiki](https://github.com/Uvic-Robotics-Club/Administrative)
 
 
--->
+# CIRC 2023 Rover
+![image](https://github.com/Uvic-Robotics-Club/.github/assets/42494981/ab7b0c3e-820b-4184-83b5-17dc261a4f03)
+
